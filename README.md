@@ -9,11 +9,4 @@ To generate a csv file run with a -csv flag
 
 >price_updater.py -csv
 
-The script need database configuration to connect to, this is example setup:
-{"db_config": { 		
-		"user": "root",
-        "password": "1234",
-        "host": "127.0.0.1",
-        "database": "mydb"
-}
-}
+The script need database configuration to connect to, the example setup you can fild in config.json file.
