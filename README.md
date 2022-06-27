@@ -2,7 +2,8 @@
 Junior Python Developer task
 ________________________________________
 Python script that connects to NBP API, reads current currency rates of USD and Euro, and updates tables UnitPriceUSD, UnitPriceEuro accordingly.
-The script has a separate mode that generates a csv file containing the whole table products.
+The script has a separate mode that generates out.csv file that contains table products.
+The scripts log its actions and exception to file log.log
 ________________________________________
 
 To install all dependencies, run 
