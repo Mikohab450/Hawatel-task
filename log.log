@@ -1,0 +1,8 @@
+2022-06-26 23:36:47,559 Reading database configuration file
+2022-06-26 23:36:47,559 Requesting url : http://api.nbp.pl/api/exchangerates/rates/a/usd/
+2022-06-26 23:36:47,605 url response: 200
+2022-06-26 23:36:47,605 Requesting url : http://api.nbp.pl/api/exchangerates/rates/a/eur/
+2022-06-26 23:36:47,627 url response: 200
+2022-06-26 23:36:47,627 Connecting to database
+2022-06-26 23:36:47,647 Updating database
+2022-06-26 23:36:47,647 Closing database connection
