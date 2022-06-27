@@ -1,0 +1,8 @@
+ProductID,DepartmentID,Category,IDSKU,ProductName,Quantity,        UnitPrice,UnitPriceUSD,UnitPriceEuro,Ranking,ProductDesc,UnitsInStock,UnitsInOrder
+PR4192,D1183,Makeup,SKU9763,Maybelline New York Super Stay,1,10,44.66,47.09,88,Matte ink lip color,438,300
+PR4298,D1183,Beauty appliances,SKU76G2,T3 Featherweight,1,247,1103.00,1163.22,5,"Hair dryer with 2 speed settings, 3 heat settings and a 2-year warranty",87,20
+PR4394,D1145,Sneakers,SKU8723,Under Armour Micro G running shoes,1,67,299.20,315.53,12,Black running shoes with rubber sole & breathable mesh,566,66
+PR4467,D1178,Adaptor,SKUGNXW,Poweradd power converter,1,30,133.97,141.28,701,2-outlet universal travel adapter,5000,20
+PR4689,D1145,Jewelery,SKU7263,10k Rose Gold plated white Gold Diamond ring,1,538,2402.49,2533.66,83766,"0.75cttw, I-J Color, I2-I3 Clarity",30,4
+PR4769,D1178,Tablet,SKU6789,Kindle Paperwhite,1,140,625.18,659.32,767,"Tablet with 6"" high-resolution display with builtin light",3987,200
+PR4789,D1178,Laptop,SKUB00V,ASUS Chromebook C201,1,270,1205.71,1271.54,18,"11.6 inch latop, navy blue",4534,445
