@@ -1,7 +1,7 @@
 # Hawatel-task
 Junior Python Developer task
 ________________________________________
-Python script that connects to NBP API, read current currency rates of USD and Euro, and updates tables UnitPriceUSD, UnitPriceEuro accordingly.
+Python script that connects to NBP API, reads current currency rates of USD and Euro, and updates tables UnitPriceUSD, UnitPriceEuro accordingly.
 The script has a separate mode that generates a csv file containing the whole table products.
 ________________________________________
 
